@@ -3,9 +3,9 @@ import java.lang.Math;
 
 public class Target {
 
-  int x, y, width, height, speedX, speedY;
-  double randomX, randomY;
-  boolean lost, collisionD, collisionU, collisionPU, collisionPL, collisionEN;
+  	int x, y, width, height, speedX, speedY;
+  	double randomX, randomY;
+  	boolean lost, collisionD, collisionU, collisionPU, collisionPL, collisionEN;
 	
 	public Target(){
 		height = 10;
