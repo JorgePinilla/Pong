@@ -1,6 +1,7 @@
 import javax.swing.*;
 
 public class Gui {
+	
 	JFrame frame;
 	DrawPanel panel;
 	
