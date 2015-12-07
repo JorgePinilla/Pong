@@ -12,6 +12,7 @@ The following files should be in the same folder:
       -DrawPanel.java
 
 To run the simulator use the following command: (make sure files have been compiled)
+
       java Gui
       
 The players paddle is on the left (as usual). Use up and down arrow keys to move your paddle.
